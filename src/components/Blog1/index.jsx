@@ -188,7 +188,9 @@ const BlogDetails = () => {
                   </Link>
                 </span>
                 <span className="text-right">
-                  <a href="/blog-details/blog-details-2/">Next Post</a>
+                  <Link href="blog-details/blog-details-2/">
+                    <a>Next Post</a>
+                  </Link>
                 </span>
               </div>
 

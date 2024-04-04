@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>ItFrog</title>
-        <link rel="icon" href="/img/logo-white.ico" />
+        <link rel="icon" href="/img/frog.ico" />
       </Head>
       {/* <Cursor /> */}
       <LoadingScreen />

@@ -15,11 +15,11 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="HTML5 Template Avo onepage themeforest"
+            content="Digital Transformation, at the tip of your fingers."
           />
           <meta
             name="description"
-            content="Avo - Onepage Multi-Purpose HTML5 Template"
+            content="Digital Transformation, at the tip of your fingers."
           />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/frog.ico" />

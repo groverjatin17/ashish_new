@@ -120,7 +120,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item mb-40">
                   <h5>
-                    <a href="#0">akumar@itfrog.io</a>
+                    <a href="#0">akumar@itfrog.net</a>
                   </h5>
                   <h5>(+1) 647 906 4237</h5>
                 </div>

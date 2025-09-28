@@ -81,7 +81,7 @@ const ClientsBrands = ({ subBG, theme }) => {
                     className="link words chars splitting"
                     data-splitting
                   >
-                    www.itfrog.io
+                    www.itfrog.net
                   </a>
                 </Split>
               </div>

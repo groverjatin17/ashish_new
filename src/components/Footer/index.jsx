@@ -30,7 +30,7 @@ const Footer = ({ noSubBG }) => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> akumar@itfrog.io
+                    <span>Email : </span> akumar@itfrog.net
                   </li>
                   <li>
                     <span>Address : </span> 63 Springview Dr, Brampton, ON L6X
